@@ -1,5 +1,5 @@
 # SKDatabaseHandler
-A simple, easy to use MS SQL database handler class library to handle connecting to SQL databases and performing database operations.
+A simple, easy to use MS SQL database handler .NET standard class library to handle connecting to SQL databases and performing database operations.
 
 - One line database interaction
 - Avoid having to duplicate code when interacting with your MS SQL database
@@ -72,5 +72,9 @@ public Exception ErrorException { get; set; }
 ```
 To save you checking the ErrorException property each time, DatabaseResponse has a function called **HasErrorOccured()** which returns a boolean to indicate if the query was successful or not.
 
+<br/>
+
+## Dependencies ##
+- System.Data.SqlClient
 
 
