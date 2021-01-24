@@ -1,0 +1,9 @@
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\bin\Debug\netstandard2.0\SKDatabaseHandler.deps.json
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\bin\Debug\netstandard2.0\SKDatabaseHandler.dll
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.csprojAssemblyReference.cache
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.AssemblyInfoInputs.cache
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.AssemblyInfo.cs
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\bin\Debug\netstandard2.0\SKDatabaseHandler.pdb
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.dll
+C:\Users\Ryan Kenny\source\repos\SKDatabaseHandler\SKDatabaseHandler\obj\Debug\netstandard2.0\SKDatabaseHandler.pdb
