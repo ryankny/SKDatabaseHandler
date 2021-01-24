@@ -114,13 +114,13 @@ namespace SKDatabaseHandler
         /// <summary>
         /// Execute a non-query command within the database that is typically a INSERT/UPDATE/DELETE and this is returned as a DatabaseResponse
         /// </summary>
-        public static DatabaseResponse ExecuteOperation(string Query, CommandType Type = CommandType.Text, List<SqlParameter> Parameters = null, string Database = "fortresshr")
+        public static DatabaseResponse ExecuteOperation(string DatabaseName, string Query, CommandType Type = CommandType.Text, List<SqlParameter> Parameters = null)
         {
             DatabaseResponse Response;
 
             try
             {
-                using (SqlConnection Connection = CreateConnection(Database))
+                using (SqlConnection Connection = CreateConnection(DatabaseName))
                 {
                     using (SqlCommand Command = new SqlCommand(Query, Connection))
                     {
