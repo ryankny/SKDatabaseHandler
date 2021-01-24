@@ -1,10 +1,10 @@
 # SKDatabaseHandler
 A simple, easy to use MS SQL database handler .NET standard class library to handle connecting to SQL databases and performing database operations.
 
-- One line database interaction
-- Avoid having to duplicate code when interacting with your MS SQL database
-- Automatically handles opening and closing database connections
-- Ensures connection objects are disposed after use
+- **One line database interaction**
+- **Avoid having to duplicate code when interacting with your MS SQL database**
+- **Automatically handles opening and closing database connections**
+- **Ensures connection objects are disposed after use**
 
 <br/>
 
