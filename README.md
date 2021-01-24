@@ -8,6 +8,11 @@ A simple, easy to use MS SQL database handler .NET standard class library to han
 
 <br/>
 
+## Dependencies ##
+- System.Data.SqlClient
+
+<br/>
+
 ## Example Usage ##
 
 #### Testing your database connection ####
@@ -73,8 +78,5 @@ public Exception ErrorException { get; set; }
 To save you checking the ErrorException property each time, DatabaseResponse has a function called **HasErrorOccured()** which returns a boolean to indicate if the query was successful or not.
 
 <br/>
-
-## Dependencies ##
-- System.Data.SqlClient
 
 
